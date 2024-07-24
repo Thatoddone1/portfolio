@@ -17,7 +17,7 @@
             <Contact></Contact>
             <About></About>
             <div
-                class="col-span-1 dark:text-white rounded-md bg-gradient-to-r from-pink-400 to-orange-400 dark:from-pink-700 dark:to-orange-700 p-4 pb-10 pt-10 justify-center font-bold text-4xl"
+                class="col-span-2 lg:col-span-1 dark:text-white rounded-md bg-gradient-to-r from-pink-400 to-orange-400 dark:from-pink-700 dark:to-orange-700 justify-center font-bold text-4xl pt-5 pb-5"
             >
                 <p class="text-center">My Projects</p>
                 <p class="text-center">↓</p>
