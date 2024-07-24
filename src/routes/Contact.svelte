@@ -3,9 +3,11 @@
 </script>
 
 <div
-    class=" bg-gradient-to-r from-cyan-400 to-green-400 dark:from-cyan-600 dark:to-green-600 p-10 rounded-lg pl-20 pr-20 basis-1/2 lg:hover:basis-2/3 transition-all duration-800 ease-in-out"
+    class=" bg-gradient-to-r from-cyan-400 to-green-400 dark:from-cyan-600 dark:to-green-600 p-10 rounded-lg pl-20 pr-20 transition-all duration-800 ease-in-out col-span-2"
 >
-    <h1 class="text-2xl font-bold text-center dark:text-white">Contact Me</h1>
+    <h1 class="text-3xl font-bold text-center dark:text-white pb-5">
+        Contact Me
+    </h1>
     <div
         class="grid md:grid-cols-2 grid-cols-1 lg:grid-cols-3 gap-4 dark:text-white"
     >

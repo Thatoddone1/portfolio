@@ -1,4 +1,6 @@
 <script>
+    import About from "./About.svelte";
+
     import Contact from "./Contact.svelte";
 
     import Introduction from "./Introduction.svelte";
@@ -10,14 +12,16 @@
     <head></head>
     <style></style>
     <body class="bg-white dark:bg-black w-auto h-auto">
-        <div class="flex flex-row flex-auto p-2 pt-4">
+        <div class="grid grid-cols-2 gap-4 lg:grid-cols-4 p-2 pt-4">
             <Introduction></Introduction>
             <Contact></Contact>
-        </div>
-        <div
-            class="flex flex-row flex-auto dark:text-white rounded-md bg-gradient-to-r from-pink-400 to-orange-400 dark:from-pink-700 dark:to-orange-700 p-4 pb-10 pt-10 m-4 justify-center font-bold text-4xl w-2/3 mx-auto"
-        >
-            My Projects
+            <About></About>
+            <div
+                class="col-span-1 dark:text-white rounded-md bg-gradient-to-r from-pink-400 to-orange-400 dark:from-pink-700 dark:to-orange-700 p-4 pb-10 pt-10 justify-center font-bold text-4xl"
+            >
+                <p class="text-center">My Projects</p>
+                <p class="text-center">↓</p>
+            </div>
         </div>
         <Projects></Projects>
     </body>
