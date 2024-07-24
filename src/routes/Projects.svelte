@@ -17,7 +17,7 @@
         <div class="flex">
             <a
                 class="text-center basis-1/2 p-3 m-5 bg-red-500 rounded-md hover:shadow-lg hover:bg-red-600 font-semibold dark:bg-red-300 dark:hover:bg-red-400"
-                href="https://simplescript.co">Learn more</a
+                href="https://simplescript.co">Learn more about SimpleScript</a
             >
             <a
                 class="text-center basis-1/2 p-3 m-5 bg-blue-500 hover:shadow-lg hover:bg-blue-600 rounded-md font-semibold dark:bg-blue-300 dark:hover:bg-blue-400 dark"
@@ -44,7 +44,7 @@
         <div class="flex justify-center">
             <a
                 class="p-3 m-5 bg-violet-500 rounded-md hover:shadow-lg hover:bg-violet-600 font-semibold dark:bg-violet-300 dark:hover:bg-violet-400"
-                href="https://www.mathpoints.net">Learn more</a
+                href="https://www.mathpoints.net">Learn more about Mathpoints</a
             >
         </div>
     </div>

@@ -8,8 +8,14 @@
     import Projects from "./Projects.svelte";
 </script>
 
-<html lang="eng">
-    <head></head>
+<html lang="en">
+    <head>
+        <title>Joshua's Portfolio</title>
+        <meta
+            name="description"
+            content="Explore Joshua's portfolio showcasing innovative web development projects and free tools to enhance your coding journey. Discover, learn, and collaborate!"
+        />
+    </head>
     <style></style>
     <body class="bg-white dark:bg-black w-auto h-auto">
         <div class="grid grid-cols-2 gap-4 lg:grid-cols-4 p-2 pt-4">
