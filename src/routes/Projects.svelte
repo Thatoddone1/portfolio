@@ -1,3 +1,4 @@
+<!---SimpleScript-->
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-1">
     <div
         class="rounded-lg bg-gradient-to-r from-blue-200 to-violet-200 dark:to-blue-700 dark:from-purple-700 p-10 pb-7 pt-7 transition-all duration-800 ease-in-out m-5 justify-center item-center"
@@ -26,6 +27,45 @@
             >
         </div>
     </div>
+    <!--Dotbuilder Div ↓-->
+    <div
+        class="rounded-lg bg-gradient-to-r from-sky-200 to-pink-200 dark:to-sky-700 dark:from-pink-700 p-10 pb-7 pt-7 transition-all duration-800 ease-in-out m-5 justify-center item-center"
+    >
+        <h1
+            class="text-center font-bold text-4xl p-1 text-blue-800 dark:text-blue-300"
+        >
+            DotBuilder
+        </h1>
+        <p
+            class="font-medium text-xl text-center text-gray-500 dark:text-gray-300"
+        >
+            A new way of keeping track of your tasks in a visual way. Create and
+            manage groups of dots to represent tasks and larger projects
+        </p>
+        <div class="flex justify-center">
+            <div class="p-5 pt-10 text-xl font-bold">Coming Soon!</div>
+        </div>
+    </div>
+    <!--Quilt ↓-->
+    <div
+        class="rounded-lg bg-gradient-to-r from-red-200 to-teal-200 dark:to-red-700 dark:from-teal-700 p-10 pb-7 pt-7 transition-all duration-800 ease-in-out m-5 justify-center item-center"
+    >
+        <h1
+            class="text-center font-bold text-4xl p-1 text-blue-800 dark:text-blue-300"
+        >
+            Quilt
+        </h1>
+        <p
+            class="font-medium text-xl text-center text-gray-500 dark:text-gray-300"
+        >
+            A simple and intuitive quotes app to boost you when you are felling
+            down. Save quotes, and learn more about the authors.
+        </p>
+        <div class="flex justify-center">
+            <div class="p-5 pt-10 text-xl font-bold">Coming Soon!</div>
+        </div>
+    </div>
+    <!--MathPoints Div ↓-->
     <div
         class="rounded-lg bg-gradient-to-r from-green-200 to-cyan-200 dark:to-green-700 dark:from-cyan-700 p-10 pb-7 pt-7 transition-all duration-800 ease-in-out m-5 justify-center item-center"
     >
