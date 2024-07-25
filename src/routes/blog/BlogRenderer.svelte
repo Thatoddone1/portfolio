@@ -1,5 +1,5 @@
 <script>
-    import MarkdownRenderer from "../MarkdownRenderer.svelte";
+    import MarkdownRenderer from "./MarkdownRenderer.svelte";
     export let filename;
     export let title;
 </script>
