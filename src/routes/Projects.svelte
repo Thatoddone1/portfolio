@@ -46,14 +46,14 @@
             <div class="p-5 pt-10 text-xl font-bold">Coming Soon!</div>
         </div>
     </div>
-    <!--Quilt ↓-->
+    <!--Quill ↓-->
     <div
         class="rounded-lg bg-gradient-to-r from-red-200 to-teal-200 dark:to-red-700 dark:from-teal-700 p-10 pb-7 pt-7 transition-all duration-800 ease-in-out m-5 justify-center item-center"
     >
         <h1
             class="text-center font-bold text-4xl p-1 text-blue-800 dark:text-blue-300"
         >
-            Quilt
+            Quill
         </h1>
         <p
             class="font-medium text-xl text-center text-gray-500 dark:text-gray-300"
