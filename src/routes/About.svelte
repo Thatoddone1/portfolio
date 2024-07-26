@@ -7,7 +7,7 @@
 </script>
 
 <div
-    class="bg-gradient-to-r from-violet-300 to-fuchsia-300 dark:from-violet-700 dark:to-fuchsia-700 rounded-lg col-span-3 p-4"
+    class="bg-gradient-to-r from-violet-300 to-fuchsia-300 dark:from-violet-700 dark:to-fuchsia-700 rounded-lg col-span-1 p-4"
 >
     <h1 class="text-center font-bold text-4xl pb-3 dark:text-white">
         About Me
