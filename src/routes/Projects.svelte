@@ -46,6 +46,28 @@
             <div class="p-5 pt-10 text-xl font-bold">Coming Soon!</div>
         </div>
     </div>
+    <!--Plan-it div-->
+    <div
+        class="rounded-lg bg-gradient-to-r from-rose-200 to-indigo-200 dark:to-rose-700 dark:from-indigo-700 p-10 pb-7 pt-7 transition-all duration-800 ease-in-out m-5 justify-center item-center"
+    >
+        <h1
+            class="text-center font-bold text-4xl p-1 text-blue-800 dark:text-blue-300"
+        >
+            Plan-it
+        </h1>
+        <p
+            class="font-medium text-xl text-center text-gray-500 dark:text-gray-300"
+        >
+            Students around the planet try to manage all of their school tasks,
+            to no avail. Presenting Plan-it <small>(see what I did there)</small
+            >, the online student planner of the future. Plan out your homework,
+            classes, syllabus, and grades, plus other non-school work in one
+            cohesive UI.
+        </p>
+        <div class="flex justify-center">
+            <div class="p-5 pt-10 text-xl font-bold">Coming Soon!</div>
+        </div>
+    </div>
     <!--Quill ↓-->
     <div
         class="rounded-lg bg-gradient-to-r from-red-200 to-teal-200 dark:to-red-700 dark:from-teal-700 p-10 pb-7 pt-7 transition-all duration-800 ease-in-out m-5 justify-center item-center"
