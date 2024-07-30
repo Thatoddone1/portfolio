@@ -20,7 +20,7 @@
     </head>
     <style></style>
     <body class="bg-white dark:bg-black w-auto h-auto">
-        <div class="grid grid-cols-2 gap-4 lg:grid-cols-4 p-2 pt-4">
+        <div class="grid grid-cols-1 gap-4 lg:grid-cols-4 p-2 pt-4">
             <Introduction></Introduction>
             <Contact></Contact>
             <About></About>
