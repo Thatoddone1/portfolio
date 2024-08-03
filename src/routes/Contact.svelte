@@ -14,7 +14,9 @@
         <div
             class="bg-gradient-to-r from-blue-300 to-indigo-300 dark:from-blue-500 dark:to-indigo-500 rounded-lg justify-center p-5 text-center font-semibold text-xl"
         >
-            Discord: <p class="font-medium text-blue-600 dark:text-blue-200">
+            Discord: <p
+                class="font-medium text-blue-600 dark:text-blue-200 break-words"
+            >
                 thatoddone1
             </p>
         </div>
@@ -22,7 +24,9 @@
             class="bg-gradient-to-r from-sky-300 to-emerald-300 dark:from-sky-500 dark:to-emerald-500 rounded-lg justify-center p-5 text-center font-semibold text-xl hover:shadow-md hover:from-sky-500 hover:to-emerald-500 dark:hover:from-sky-700 dark:hover:to-emerald-700"
             href="https://github.com/Thatoddone1"
         >
-            GitHub: <p class="font-medium text-blue-600 dark:text-blue-200">
+            GitHub: <p
+                class="font-medium text-blue-600 dark:text-blue-200 break-words"
+            >
                 Thatoddone1
             </p>
         </a>
@@ -31,9 +35,9 @@
             href="mailto:slot.visor0c@icloud.com"
         >
             Email: <p
-                class="font-medium text-blue-600 text-wrap dark:text-blue-200"
+                class="font-medium text-blue-600 text-wrap dark:text-blue-200 break-words"
             >
-                slot.visor0c @icloud.com
+                slot.visor0c@icloud.com
             </p>
         </a>
     </div>

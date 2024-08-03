@@ -39,7 +39,6 @@ declare module '$env/static/private' {
 	export const TERM_PROGRAM_VERSION: string;
 	export const WINDOWID: string;
 	export const COLOR: string;
-	export const TERM_SESSION_ID: string;
 	export const npm_config_noproxy: string;
 	export const npm_config_local_prefix: string;
 	export const LC_ALL: string;
@@ -51,10 +50,8 @@ declare module '$env/static/private' {
 	export const SSH_AUTH_SOCK: string;
 	export const __CF_USER_TEXT_ENCODING: string;
 	export const npm_execpath: string;
-	export const TERM_FEATURES: string;
 	export const ZED_STEM: string;
 	export const ZED_ROW: string;
-	export const TERMINFO_DIRS: string;
 	export const PATH: string;
 	export const ZED_COLUMN: string;
 	export const npm_package_json: string;
@@ -68,8 +65,6 @@ declare module '$env/static/private' {
 	export const npm_lifecycle_event: string;
 	export const EDITOR: string;
 	export const npm_package_name: string;
-	export const LANG: string;
-	export const ITERM_PROFILE: string;
 	export const npm_config_npm_version: string;
 	export const XPC_FLAGS: string;
 	export const npm_config_node_gyp: string;
@@ -78,10 +73,7 @@ declare module '$env/static/private' {
 	export const ZED_DIRNAME: string;
 	export const SHLVL: string;
 	export const HOME: string;
-	export const COLORFGBG: string;
-	export const LC_TERMINAL_VERSION: string;
 	export const HOMEBREW_PREFIX: string;
-	export const ITERM_SESSION_ID: string;
 	export const npm_config_cache: string;
 	export const LOGNAME: string;
 	export const npm_lifecycle_script: string;
@@ -90,7 +82,6 @@ declare module '$env/static/private' {
 	export const npm_config_user_agent: string;
 	export const INFOPATH: string;
 	export const HOMEBREW_CELLAR: string;
-	export const LC_TERMINAL: string;
 	export const SECURITYSESSIONID: string;
 	export const npm_node_execpath: string;
 	export const npm_config_prefix: string;
@@ -140,7 +131,6 @@ declare module '$env/dynamic/private' {
 		TERM_PROGRAM_VERSION: string;
 		WINDOWID: string;
 		COLOR: string;
-		TERM_SESSION_ID: string;
 		npm_config_noproxy: string;
 		npm_config_local_prefix: string;
 		LC_ALL: string;
@@ -152,10 +142,8 @@ declare module '$env/dynamic/private' {
 		SSH_AUTH_SOCK: string;
 		__CF_USER_TEXT_ENCODING: string;
 		npm_execpath: string;
-		TERM_FEATURES: string;
 		ZED_STEM: string;
 		ZED_ROW: string;
-		TERMINFO_DIRS: string;
 		PATH: string;
 		ZED_COLUMN: string;
 		npm_package_json: string;
@@ -169,8 +157,6 @@ declare module '$env/dynamic/private' {
 		npm_lifecycle_event: string;
 		EDITOR: string;
 		npm_package_name: string;
-		LANG: string;
-		ITERM_PROFILE: string;
 		npm_config_npm_version: string;
 		XPC_FLAGS: string;
 		npm_config_node_gyp: string;
@@ -179,10 +165,7 @@ declare module '$env/dynamic/private' {
 		ZED_DIRNAME: string;
 		SHLVL: string;
 		HOME: string;
-		COLORFGBG: string;
-		LC_TERMINAL_VERSION: string;
 		HOMEBREW_PREFIX: string;
-		ITERM_SESSION_ID: string;
 		npm_config_cache: string;
 		LOGNAME: string;
 		npm_lifecycle_script: string;
@@ -191,7 +174,6 @@ declare module '$env/dynamic/private' {
 		npm_config_user_agent: string;
 		INFOPATH: string;
 		HOMEBREW_CELLAR: string;
-		LC_TERMINAL: string;
 		SECURITYSESSIONID: string;
 		npm_node_execpath: string;
 		npm_config_prefix: string;
