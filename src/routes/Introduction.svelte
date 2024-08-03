@@ -16,6 +16,6 @@
     <img
         src="/profilepicture.jpeg"
         alt="My Profile Picture"
-        class="rounded-full size-40 lg:size-60 p-3 ml-10 m-3 basis-auto"
+        class="rounded-full size-40 lg:size-60 p-2 m-3 basis-auto"
     />
 </div>
