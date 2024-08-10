@@ -12,4 +12,9 @@
         url="/blog/first-blog"
         description="My first blog. A quick article on how I built the blogging system"
     ></BlogCard>
+    <BlogCard
+        title="Warp: The Terminal of the Future?"
+        url="/blog/warp"
+        description="A dive into the Warp terminal application. Is it worth your time, and money?"
+    ></BlogCard>
 </div>
