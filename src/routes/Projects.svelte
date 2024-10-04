@@ -46,7 +46,7 @@
             <div class="p-5 pt-10 text-xl font-bold">Coming Soon!</div>
         </div>
     </div>
-    <!--Plan-it div-->
+    <!--Plan-it div
     <div
         class="rounded-lg bg-gradient-to-r from-rose-200 to-indigo-200 dark:to-rose-700 dark:from-indigo-700 p-10 pb-7 pt-7 transition-all duration-800 ease-in-out m-5 justify-center item-center"
     >
@@ -68,7 +68,8 @@
             <div class="p-5 pt-10 text-xl font-bold">Coming Soon!</div>
         </div>
     </div>
-    <!--Quill ↓-->
+    -->
+    <!--Quill ↓
     <div
         class="rounded-lg bg-gradient-to-r from-red-200 to-teal-200 dark:to-red-700 dark:from-teal-700 p-10 pb-7 pt-7 transition-all duration-800 ease-in-out m-5 justify-center item-center"
     >
@@ -87,13 +88,15 @@
             <div class="p-5 pt-10 text-xl font-bold">Coming Soon!</div>
         </div>
     </div>
+    -->
     <!--MathPoints Div ↓-->
     <div
-        class="rounded-lg bg-gradient-to-r from-green-200 to-cyan-200 dark:to-green-700 dark:from-cyan-700 p-10 pb-7 pt-7 transition-all duration-800 ease-in-out m-5 justify-center item-center"
+        class="rounded-lg bg-gradient-to-r from-gray-200 to-gray-200 dark:to-gray-700 dark:from-gray-700 p-10 pb-7 pt-7 transition-all duration-800 ease-in-out m-5 justify-center item-center"
     >
         <h1
             class="text-center font-bold text-4xl p-1 text-blue-800 dark:text-blue-300"
         >
+            <p class="text-xl text-gray-800 dark:text-gray-300">discontinued</p>
             Mathpoints
         </h1>
         <p
