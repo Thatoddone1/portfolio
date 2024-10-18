@@ -69,7 +69,7 @@
         </div>
     </div>
     -->
-    <!--Quill ↓
+    <!--Quill ↓     -->
     <div
         class="rounded-lg bg-gradient-to-r from-red-200 to-teal-200 dark:to-red-700 dark:from-teal-700 p-10 pb-7 pt-7 transition-all duration-800 ease-in-out m-5 justify-center item-center"
     >
@@ -82,13 +82,12 @@
             class="font-medium text-xl text-center text-gray-500 dark:text-gray-300"
         >
             A simple and intuitive quotes app to boost you when you are felling
-            down. Save quotes, and learn more about the authors.
+            down. <!-- Save quotes, and learn more about the authors. -->
         </p>
         <div class="flex justify-center">
             <div class="p-5 pt-10 text-xl font-bold">Coming Soon!</div>
         </div>
     </div>
-    -->
     <!--MathPoints Div ↓-->
     <div
         class="rounded-lg bg-gradient-to-r from-gray-200 to-gray-200 dark:to-gray-700 dark:from-gray-700 p-10 pb-7 pt-7 transition-all duration-800 ease-in-out m-5 justify-center item-center"
@@ -96,7 +95,7 @@
         <h1
             class="text-center font-bold text-4xl p-1 text-blue-800 dark:text-blue-300"
         >
-            <p class="text-xl text-gray-800 dark:text-gray-300">discontinued</p>
+            <p class="text-xl text-gray-800 dark:text-gray-300">archived</p>
             Mathpoints
         </h1>
         <p
