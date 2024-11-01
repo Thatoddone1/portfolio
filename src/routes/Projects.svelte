@@ -89,25 +89,46 @@
         </div>
     </div>
     <div
-    class="rounded-lg bg-gradient-to-r from-green-200 to-violet-200 dark:to-green-700 dark:from-violet-700 p-10 pb-7 pt-7 transition-all duration-800 ease-in-out m-5 justify-center item-center"
+        class="rounded-lg bg-gradient-to-r from-red-200 to-teal-200 dark:to-red-700 dark:from-teal-700 p-10 pb-7 pt-7 transition-all duration-800 ease-in-out m-5 justify-center item-center"
     >
-    <h1
+        <h1
             class="text-center font-bold text-4xl p-1 text-blue-800 dark:text-blue-300"
-    >
-        ZenDev Labs
-    </h1>
-    <p
-            class="font-medium text-xl text-center text-gray-500 dark:text-gray-300"
-    >
-       Check back here soon to see what we are making at zendev labs!
-    </p>
-    <div class="flex justify-center">
-        <a
-                class="p-3 m-5 bg-violet-500 rounded-md hover:shadow-lg hover:bg-violet-600 font-semibold dark:bg-violet-300 dark:hover:bg-violet-400"
-                href="https://github.com/ZenDev-Labs">Learn more about ZenDev Labs</a
         >
+            Potato
+        </h1>
+        <p
+            class="font-medium text-xl text-center text-gray-500 dark:text-gray-300"
+        >
+            Perfect Potato Popping Perfection
+        </p>
+        <div class="flex justify-center">
+            <a
+                class="p-3 m-5 bg-violet-500 rounded-md hover:shadow-lg hover:bg-violet-600 font-semibold dark:bg-violet-300 dark:hover:bg-violet-400"
+                href="https://potato.joshuarocks.me">Click some potatoes</a
+            >
+        </div>
     </div>
-</div>
+    <div
+        class="rounded-lg bg-gradient-to-r from-green-200 to-violet-200 dark:to-green-700 dark:from-violet-700 p-10 pb-7 pt-7 transition-all duration-800 ease-in-out m-5 justify-center item-center"
+    >
+        <h1
+            class="text-center font-bold text-4xl p-1 text-blue-800 dark:text-blue-300"
+        >
+            ZenDev Labs
+        </h1>
+        <p
+            class="font-medium text-xl text-center text-gray-500 dark:text-gray-300"
+        >
+            Check back here soon to see what we are making at zendev labs!
+        </p>
+        <div class="flex justify-center">
+            <a
+                class="p-3 m-5 bg-violet-500 rounded-md hover:shadow-lg hover:bg-violet-600 font-semibold dark:bg-violet-300 dark:hover:bg-violet-400"
+                href="https://github.com/ZenDev-Labs"
+                >Learn more about ZenDev Labs</a
+            >
+        </div>
+    </div>
     <!--MathPoints Div ↓-->
     <div
         class="rounded-lg bg-gradient-to-r from-gray-200 to-gray-200 dark:to-gray-700 dark:from-gray-700 p-10 pb-7 pt-7 transition-all duration-800 ease-in-out m-5 justify-center item-center"
