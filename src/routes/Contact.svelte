@@ -32,12 +32,12 @@
         </a>
         <a
             class="bg-gradient-to-r from-lime-300 to-rose-300 dark:from-lime-500 dark:to-rose-500 rounded-lg justify-center p-5 text-center font-semibold text-lg text-wrap hover:shadow-md hover:from-lime-500 hover:to-rose-500 dark:hover:from-lime-700 dark:hover:to-rose-700"
-            href="mailto:slot.visor0c@icloud.com"
+            href="mailto:contact@joshuarocks.me"
         >
             Email: <p
                 class="font-medium text-blue-600 text-wrap dark:text-blue-200 break-words"
             >
-                slot.visor0c@icloud.com
+                contact@joshuarocks.me
             </p>
         </a>
     </div>
