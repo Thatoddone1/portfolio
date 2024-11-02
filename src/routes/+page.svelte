@@ -8,6 +8,8 @@
     import Projects from "./Projects.svelte";
 
     import Langs from "./Langs.svelte";
+
+    import BlogAd from "./BlogAd.svelte";
 </script>
 
 <html lang="en">
@@ -39,5 +41,6 @@
             </div>
         </div>
         <Projects></Projects>
+        <BlogAd></BlogAd>
     </body>
 </html>
