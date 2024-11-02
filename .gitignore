@@ -26,5 +26,9 @@ package
 
 ### JetBrains ###
 .idea/
-.svelte-kit/ambient.d.ts
-.svelte-kit/generated/server/internal.js
+
+
+
+
+node_modules
+
