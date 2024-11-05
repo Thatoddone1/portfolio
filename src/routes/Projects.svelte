@@ -1,6 +1,6 @@
 <!---SimpleScript-->
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-1">
-    <!--SimpleScript Div ↓-->
+    <!--SimpleScript Div
     <div
         class="rounded-lg bg-gradient-to-r from-blue-200 to-violet-200 dark:to-blue-700 dark:from-purple-700 p-10 pb-7 pt-7 transition-all duration-800 ease-in-out m-5 justify-center item-center"
     >
@@ -28,6 +28,7 @@
             >
         </div>
     </div>
+     ↓-->
     <!--Dotbuilder Div ↓-->
     <div
         class="rounded-lg bg-gradient-to-r from-sky-200 to-pink-200 dark:to-sky-700 dark:from-pink-700 p-10 pb-7 pt-7 transition-all duration-800 ease-in-out m-5 justify-center item-center"
@@ -90,7 +91,7 @@
             >
         </div>
     </div>
-    <!--MathPoints Div ↓-->
+    <!--MathPoints Div
     <div
         class="rounded-lg bg-gradient-to-r from-gray-200 to-gray-200 dark:to-gray-700 dark:from-gray-700 p-10 pb-7 pt-7 transition-all duration-800 ease-in-out m-5 justify-center item-center"
     >
@@ -114,4 +115,5 @@
             >
         </div>
     </div>
+     ↓-->
 </div>
