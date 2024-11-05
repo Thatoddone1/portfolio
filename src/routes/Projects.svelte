@@ -44,7 +44,10 @@
             manage groups of dots to represent tasks and larger projects
         </p>
         <div class="flex justify-center">
-            <div class="p-5 pt-10 text-xl font-bold">Coming Soon!</div>
+            <a
+                class="p-3 m-5 bg-teal-500 rounded-md hover:shadow-lg hover:bg-teal-600 font-semibold dark:bg-teal-300 dark:hover:bg-teal-400"
+                href="https://dotbuilder.joshuarocks.me">Click here to learn more</a
+            >
         </div>
     </div>
     <!--Quill ↓     -->
