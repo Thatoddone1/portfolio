@@ -13,7 +13,7 @@
         About Me
     </h1>
     <p class="font-semibold text-lg text-gray-700 dark:text-gray-300">
-        Hi! My name is <b>Joshua *******</b>, but online you will just see me as
+        Hi! My name is <b>Joshua</b>, but online you will just see me as
         <b class=" text-emerald-800 dark:text-emerald-300">thatoddone</b>. I
         love creating tools that real people will utilize and enjoy using!
         Below, you can see the many projects I have worked on, and the ones I am
